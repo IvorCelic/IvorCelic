@@ -2,7 +2,7 @@
 
 - 🎥 Experienced in <b>videoproduction</b> (TV directing, video & audio technician)
 - 🤓 Known programming languages: <b>PHP, SQL</b> (for now in mySQL)
-- 🌱 Learning <b>C#</b> & graphic design (for TV)
+- 🌱 Learning <b>C#</b> & TV graphic
 - 📫 ivorcelic@gmail.com
 
 
